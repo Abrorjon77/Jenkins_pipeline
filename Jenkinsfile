@@ -23,7 +23,7 @@ pipeline {
                 sh '''
                 echo 'Deploying....'
                 cd files/environments
-                terraform approve -auto-approve
+                terraform apply -auto-approve
                 sh '''
             }
         }
