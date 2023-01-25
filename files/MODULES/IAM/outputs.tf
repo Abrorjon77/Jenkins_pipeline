@@ -1,3 +1,3 @@
-output "dzmitry_fridge" {
+output "abroor" {
     value = aws_iam_instance_profile.test_profile.id
 }
