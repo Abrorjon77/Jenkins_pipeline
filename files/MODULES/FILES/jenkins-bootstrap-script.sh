@@ -11,7 +11,7 @@
   <style>
     body {
       color: #ffffff;
-      background-color: #141414;
+      background-color: #2b5410;
       font-family: Arial, sans-serif;
       font-size: 14px;
     }
