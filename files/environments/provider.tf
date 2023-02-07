@@ -9,7 +9,7 @@ provider "aws" {
 
 terraform {
   backend "s3" {
-    bucket = "abroor-ziyotek-bucket"
+    bucket = "jenkins-bucket-ziyotek-816725581106"
     key    = "docs/myfile"
     region = "us-east-1"
   }
